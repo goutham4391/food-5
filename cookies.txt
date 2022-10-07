@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+html.design	TRUE	/	FALSE	1999999999	ezoadgid_317139	-1
+html.design	TRUE	/	FALSE	1999999999	ezosuibasgeneris-1	40563978-9f35-4ea9-46e8-1bde9dc915d4
+html.design	TRUE	/	FALSE	1999999999	SameSite	None
+html.design	TRUE	/	FALSE	1999999999	ezoab_317139	mod30-c
+html.design	TRUE	/	FALSE	1999999999	lp_317139	https://html.design/demo/restaurant/index.html
+html.design	TRUE	/	FALSE	1999999999	ezovuuidtime_317139	1663998923
+html.design	TRUE	/	FALSE	1999999999	ezovuuid_317139	3cdcda4c-c882-4651-68f3-7c5b0859ef3d
+html.design	TRUE	/	FALSE	1999999999	ezopvc_317139	1
+.quantserve.com	TRUE	/	FALSE	1999999999	mc	632e9c13-1e115-b0f2c-017a7
+html.design	TRUE	/	FALSE	1999999999	PHPSESSID	9n5md1rtki3hpaml6k1g5avhdk
+

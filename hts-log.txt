@@ -1,0 +1,43 @@
+HTTrack3.49-2 launched on Sat, 24 Sep 2022 11:25:23 at https://html.design/demo/restaurant/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://html.design/demo/restaurant/index.html -O "/home/kumartej/websites/food_5" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:27:33	Warning: 	Retry after error -2 (Receive Time Out) at link https://html.design/detroitchicago/grapefruit.gif (from https://html.design/demo/restaurant/index.html)
+11:27:34	Warning: 	Retry after error -2 (Receive Time Out) at link https://html.design/porpoiseant/army.gif (from https://html.design/demo/restaurant/index.html)
+11:27:34	Error: 	"Not Found" (404) at link https://html.design/demo/restaurant/images/favicon.ico (from https://html.design/demo/restaurant/index.html)
+11:27:34	Error: 	"Not Found" (404) at link https://html.design/demo/restaurant/images/apple-touch-icon.png (from https://html.design/demo/restaurant/index.html)
+11:27:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/restaurant/fonts/glyphicons-halflings-regular.eot?
+11:27:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/restaurant/fonts/glyphicons-halflings-regular.woff2
+11:27:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/restaurant/fonts/glyphicons-halflings-regular.woff
+11:27:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/restaurant/fonts/glyphicons-halflings-regular.ttf
+11:27:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/restaurant/images/loader-animation.gif
+11:27:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/restaurant/images/icon_top.png
+11:28:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/restaurant/images/banner.jpg
+11:28:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/restaurant/images/special_menu_bg.jpg
+11:28:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/restaurant/images/team_bg.jpg
+11:28:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/restaurant/images/blog_bg.jpg
+11:28:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/restaurant/images/full-bg.png
+11:28:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/restaurant/images/newsletter-bg.jpg
+11:28:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/restaurant/images/footer_background.jpg
+11:28:18	Error: 	"Not Found" (404) at link https://html.design/demo/restaurant/audins.js (from https://html.design/demo/restaurant/index.html)
+11:29:34	Warning: 	Retry after error -2 (Receive Time Out) at link https://html.design/detroitchicago/grapefruit.gif (from https://html.design/demo/restaurant/index.html)
+11:29:34	Warning: 	Retry after error -2 (Receive Time Out) at link https://html.design/porpoiseant/army.gif (from https://html.design/demo/restaurant/index.html)
+11:29:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/restaurant/fonts/Flaticon.eot?
+11:29:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/restaurant/fonts/Flaticon.woff
+11:29:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/restaurant/fonts/Flaticon.ttf
+11:29:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/restaurant/fonts/fontawesome-webfont.eot?
+11:29:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/restaurant/fonts/fontawesome-webfont.woff2?v=4.7.0
+11:29:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/restaurant/fonts/fontawesome-webfont.woff?v=4.7.0
+11:29:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/restaurant/fonts/fontawesome-webfont.ttf?v=4.7.0
+11:29:56	Error: 	"Forbidden" (403) at link https://html.design/demo/restaurant/css/..images/footer_background.jpg (from https://html.design/demo/restaurant/css/style.css)
+11:31:34	Error: 	"Receive Time Out" (-2) after 2 retries at link https://html.design/detroitchicago/grapefruit.gif (from https://html.design/demo/restaurant/index.html)
+11:31:34	Error: 	"Receive Time Out" (-2) after 2 retries at link https://html.design/porpoiseant/army.gif (from https://html.design/demo/restaurant/index.html)
+11:31:34	Error: 	"Not Found" (404) at link https://html.design/demo/restaurant/css/AjaxLoader.gif (from https://html.design/demo/restaurant/css/owl.theme.css)
+11:31:34	Error: 	"Not Found" (404) at link https://html.design/demo/restaurant/css/grabbing.png (from https://html.design/demo/restaurant/css/owl.carousel.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 11 seconds : 120 links scanned, 127 files written (18741018 bytes overall) [16983440 bytes received at 45777 bytes/sec], 19306049 bytes transferred using HTTP compression in 128 files, ratio 87%, 10.0 requests per connection
+(8 errors, 24 warnings, 0 messages)
